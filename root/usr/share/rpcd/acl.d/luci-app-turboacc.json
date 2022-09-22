@@ -1,0 +1,11 @@
+{
+	"luci-app-turboacc": {
+		"description": "Turbo ACC Center",
+		"read": {
+			"uci": [ "turboacc" ]
+		},
+		"write": {
+			"uci": [ "turboacc" ]
+		}
+	}
+}
