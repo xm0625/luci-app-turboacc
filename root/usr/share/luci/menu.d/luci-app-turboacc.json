@@ -3,11 +3,12 @@
 		"title": "TurboACC Center",
 		"action": {
 			"type": "view",
-			"path": "network/turboacc"
+			"path": "turboacc/turboacc"
 		},
 		"depends": {
 			"acl": [ "luci-app-turboacc" ],
 			"uci": { "turboacc": true }
 		}
 	}
+
 }
